@@ -1,2 +1,2 @@
 # Data-Science-In-Practice
-Data Science In Practice coming soon! #DataScienceInPractice
+Data Science In Practice coming soon!
